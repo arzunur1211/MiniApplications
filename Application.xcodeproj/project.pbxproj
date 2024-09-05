@@ -13,6 +13,7 @@
 		4966F7522C8A08B500250154 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4966F7502C8A08B500250154 /* Main.storyboard */; };
 		4966F7542C8A08BD00250154 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4966F7532C8A08BD00250154 /* Assets.xcassets */; };
 		4966F7572C8A08BD00250154 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4966F7552C8A08BD00250154 /* LaunchScreen.storyboard */; };
+		4966F7602C8A0F2500250154 /* MiniApps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4966F75F2C8A0F2500250154 /* MiniApps.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4966F7532C8A08BD00250154 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4966F7562C8A08BD00250154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4966F7582C8A08BD00250154 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4966F75F2C8A0F2500250154 /* MiniApps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniApps.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4966F74A2C8A08B500250154 /* AppDelegate.swift */,
 				4966F74C2C8A08B500250154 /* SceneDelegate.swift */,
 				4966F74E2C8A08B500250154 /* ViewController.swift */,
+				4966F75F2C8A0F2500250154 /* MiniApps.swift */,
 				4966F7502C8A08B500250154 /* Main.storyboard */,
 				4966F7532C8A08BD00250154 /* Assets.xcassets */,
 				4966F7552C8A08BD00250154 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				4966F74F2C8A08B500250154 /* ViewController.swift in Sources */,
 				4966F74B2C8A08B500250154 /* AppDelegate.swift in Sources */,
+				4966F7602C8A0F2500250154 /* MiniApps.swift in Sources */,
 				4966F74D2C8A08B500250154 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
