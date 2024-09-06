@@ -15,7 +15,7 @@ extension MiniApps {
         MiniApps(name: "Светофор"),
         MiniApps(name: "Цвет заливки"),
         MiniApps(name: "Светофор"),
-            MiniApps(name: "Цвет заливки"),
+        MiniApps(name: "Цвет заливки"),
         MiniApps(name: "Светофор"),
         MiniApps(name: "Цвет заливки"),
         MiniApps(name: "Светофор"),

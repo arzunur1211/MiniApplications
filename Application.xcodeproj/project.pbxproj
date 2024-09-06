@@ -14,6 +14,9 @@
 		4966F7542C8A08BD00250154 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4966F7532C8A08BD00250154 /* Assets.xcassets */; };
 		4966F7572C8A08BD00250154 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4966F7552C8A08BD00250154 /* LaunchScreen.storyboard */; };
 		4966F7602C8A0F2500250154 /* MiniApps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4966F75F2C8A0F2500250154 /* MiniApps.swift */; };
+		4966F7632C8A3F1B00250154 /* ViewControllerWithSelect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4966F7622C8A3F1B00250154 /* ViewControllerWithSelect.swift */; };
+		4966F7662C8A4F6E00250154 /* TrafficLightsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4966F7652C8A4F6E00250154 /* TrafficLightsViewController.swift */; };
+		4966F7692C8A509B00250154 /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4966F7682C8A509B00250154 /* ColorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		4966F7562C8A08BD00250154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4966F7582C8A08BD00250154 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4966F75F2C8A0F2500250154 /* MiniApps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniApps.swift; sourceTree = "<group>"; };
+		4966F7622C8A3F1B00250154 /* ViewControllerWithSelect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerWithSelect.swift; sourceTree = "<group>"; };
+		4966F7652C8A4F6E00250154 /* TrafficLightsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightsViewController.swift; sourceTree = "<group>"; };
+		4966F7682C8A509B00250154 /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +67,11 @@
 				4966F74A2C8A08B500250154 /* AppDelegate.swift */,
 				4966F74C2C8A08B500250154 /* SceneDelegate.swift */,
 				4966F74E2C8A08B500250154 /* ViewController.swift */,
+				4966F7622C8A3F1B00250154 /* ViewControllerWithSelect.swift */,
 				4966F75F2C8A0F2500250154 /* MiniApps.swift */,
 				4966F7502C8A08B500250154 /* Main.storyboard */,
+				4966F7682C8A509B00250154 /* ColorViewController.swift */,
+				4966F7652C8A4F6E00250154 /* TrafficLightsViewController.swift */,
 				4966F7532C8A08BD00250154 /* Assets.xcassets */,
 				4966F7552C8A08BD00250154 /* LaunchScreen.storyboard */,
 				4966F7582C8A08BD00250154 /* Info.plist */,
@@ -141,7 +150,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				4966F74F2C8A08B500250154 /* ViewController.swift in Sources */,
+				4966F7662C8A4F6E00250154 /* TrafficLightsViewController.swift in Sources */,
 				4966F74B2C8A08B500250154 /* AppDelegate.swift in Sources */,
+				4966F7632C8A3F1B00250154 /* ViewControllerWithSelect.swift in Sources */,
+				4966F7692C8A509B00250154 /* ColorViewController.swift in Sources */,
 				4966F7602C8A0F2500250154 /* MiniApps.swift in Sources */,
 				4966F74D2C8A08B500250154 /* SceneDelegate.swift in Sources */,
 			);

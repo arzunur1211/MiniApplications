@@ -11,6 +11,7 @@ class ViewController: UITableViewController {
     var appList = MiniApps.getMiniAppslist()
     override func viewDidLoad() {
         super.viewDidLoad()
+        tableView.allowsSelection = false
         // Do any additional setup after loading the view.
     }
 
@@ -28,6 +29,6 @@ extension ViewController {
        
     }
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        120
+        return UIScreen.main.bounds.height / 8
     }
 }
